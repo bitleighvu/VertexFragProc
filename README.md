@@ -1,5 +1,5 @@
-# Bezier Patches
-CS3451 Bezier Patches in Processing
+# Vertex & Fragment Processors
+CS3451 Vertex & Fragment Processors in Processing
 
 ### Run Instructions ###
 1. Open the project folder
